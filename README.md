@@ -1,5 +1,5 @@
 # Randomizeee
-A Simple Random Number Generator
+A Simple Random Number Generator (CLI)
 <br><br>
 
 ### How to install
